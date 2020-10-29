@@ -1,0 +1,10 @@
+.nav {
+    width: 100%;
+    position: fixed;
+    background-color: black;
+}
+
+.image {
+    margin-left: 10px;
+    margin-top: 10px;
+}
