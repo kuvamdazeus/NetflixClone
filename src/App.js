@@ -18,6 +18,11 @@ function App() {
       <Row title="Documentaries" fetchUrl={requests.fetchDocumentaries} />
       <Row title="Horror" fetchUrl={requests.fetchHorrorMovies} />
       <Row title="Romance" fetchUrl={requests.fetchRomanceMovies} />
+      <center>
+        <h5>Made By KuvamBhardwaj</h5>
+        <p><a href="https://github.com/kuvamdazeus/NetflixClone">NetflixClone code here</a></p>
+        <br></br>
+      </center>
     </div>
   );
 }
